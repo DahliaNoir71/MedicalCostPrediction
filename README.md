@@ -8,11 +8,6 @@ Ce projet consiste à prédire les coûts médicaux pour les individus en foncti
 2. [Technologies utilisées](#technologies-utilisées)
 3. [Données](#données)
 4. [Installation](#installation)
-5. [Utilisation](#utilisation)
-6. [Modèles](#modèles)
-7. [Évaluation](#évaluation)
-8. [Contribution](#contribution)
-9. [Licences](#licences)
 
 ## Contexte du projet
 
